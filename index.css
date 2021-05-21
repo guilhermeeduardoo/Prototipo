@@ -1,0 +1,167 @@
+body {
+   margin: 0;
+   padding: 0;
+}
+#conteiner {
+   background: linear-gradient(90.23deg, #232B6F 3.59%,   rgba(64, 35, 111, 0.94) 99.46%);
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+ }
+ #lista {
+   display: flex;
+ }
+ li {
+   font-family: sans-serif;
+   color: white;
+   font-size: 20px;
+   margin-left: 50px;
+   margin-right: 50px;
+   list-style: none;
+ }
+ h1 {
+   margin-left: 50px;
+ }
+ img {
+    width: 190px;
+    height: 70px;
+ }
+ a {
+   color: white;
+   text-decoration: none;
+   text-align: center;
+ }
+ #perfil {
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+ }
+ #maninho {
+   width: 45px;
+   height: 45px;
+   margin-left: 60px;
+   margin-top: -8px;
+ }
+ #parte2 {
+  display: flex;
+  justify-content: center;
+ }
+ #calendario {
+  width: 2000px;
+  height: 800px;
+  top: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+#calender {
+  width: 1400px;
+  height: 474px;
+  border: 1.00661px solid #000000;
+  border-radius: 5.03px;
+  display: flex;
+  justify-content: space-around;
+}
+#titulo_reunioes {
+  font-size: 57.5378px;
+  margin-bottom: 0px;
+  margin-top: 150px;
+}
+#paragrafo_reuniao {
+  margin-left: 50px;
+  font-size: 31.0165px;
+  margin-top: 10px;
+  width: 400px;
+  padding: 0px;
+  margin-right: 0px;
+  border: 0px;
+}
+#paragrafo_reuniao, #titulo_reunioes {
+  font-family: sans-serif;
+  margin-left: 171px;
+}
+#engloba_projetos {
+  display: flex;
+  justify-content: space-around;
+}
+#p_concluidos {
+  width: 626px;
+  height: 475px;
+  border: 1.00661px solid #000000;
+  border-radius: 5.03px;
+  margin-top: -80px;
+  margin-bottom: 50px;
+}
+#p_pendentes {
+  width: 626px;
+  height: 475px;
+  border: 1.00661px solid #000000;
+  border-radius: 5.03px;
+  margin-top: -80px;
+  margin-bottom: 50px;
+}
+#titulo_concluido, #titulo_pendente,#texto4 {
+  font-family: sans-serif;
+  font-size: 50px;
+}
+#lista_concluido, #dent, #alb, #agi, #dino, #sta, #gorge {
+  font-family: sans-serif;
+  color: #000000;
+  list-style: unset;
+  font-size: 30px;
+  margin-left: 19px;
+}
+#parte4 {
+  display: flex;
+  justify-content: center;
+}
+#engloba_menbros {
+  width: 1400px;
+  height: 333px;
+  border: 1px solid #000000;
+  border-radius: 5.03px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+#menbro1 {
+  width: 293px;
+  height: 282px;
+  border-radius: 10px;
+  background: #464278;
+}
+#menbro2 {
+  width: 293px;
+  height: 282px;
+  border-radius: 10px;
+  background: #3E5389;
+}
+#menbro1, #menbro2 {
+  margin-top: 26px;
+}
+#henrique {
+  width: 97px;
+  height: 97px;
+  border-radius: 50%;
+  margin-left: 19px;
+  margin-top: 18px;
+}
+#drielly {
+  width: 97px;
+  height: 97px;
+  border-radius: 50%;
+  margin-left: 19px;
+  margin-top: 18px;
+}
+#nome_menbro1, #nome_menbro2 {
+  font-family: sans-serif;
+  margin-left: 19px;
+}
+#descricao_menbro1, #descricao_menbro2 {
+  font-family: sans-serif;
+  margin-left: 19px;
+}
+#calender_estilo {
+  width: 602.96px;
+  height: 458.01px;
+}
