@@ -1,5 +1,5 @@
 # Protótipo
-![Alt text](prints/paginainicial.jpg?raw=true "Página Inicial")
+![Alt text](screanshots/paginainicial.jpg?raw=true "Página Inicial")
 O projeto apresentado é um prototipo de tela inicial, de 
 um sistema de gestão.
 
