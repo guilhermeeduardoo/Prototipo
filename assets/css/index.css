@@ -1,6 +1,7 @@
 body {
    margin: 0;
    padding: 0;
+   background-color: linear-gradient(104.21deg, #22254D 0%, #4A3077 99.64%);
 }
 #conteiner {
    background: linear-gradient(90.23deg, #232B6F 3.59%,   rgba(64, 35, 111, 0.94) 99.46%);
