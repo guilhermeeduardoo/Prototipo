@@ -62,6 +62,7 @@ body {
   border-radius: 5.03px;
   display: flex;
   justify-content: space-around;
+  background-color: whitesmoke;
 }
 #titulo_reunioes {
   font-size: 57.5378px;
@@ -92,6 +93,7 @@ body {
   border-radius: 5.03px;
   margin-top: -80px;
   margin-bottom: 50px;
+  background-color: whitesmoke;
 }
 #p_pendentes {
   width: 626px;
@@ -100,6 +102,7 @@ body {
   border-radius: 5.03px;
   margin-top: -80px;
   margin-bottom: 50px;
+  background-color: whitesmoke;
 }
 #titulo_concluido, #titulo_pendente,#texto4 {
   font-family: sans-serif;
@@ -124,6 +127,7 @@ body {
   margin-bottom: 50px;
   display: flex;
   justify-content: space-around;
+  background-color: whitesmoke;
 }
 #menbro1 {
   width: 293px;
